@@ -14,3 +14,10 @@ There should be a navigation for the following list of websites.
 - Dhamma Nijjhāna
 - Dhamma Vijaya
  
+
+
+**Features Status:**
+
+- Basic Layout of the Website. 
+- About Page and Carasoule for Images.  
+
